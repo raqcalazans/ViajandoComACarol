@@ -9,8 +9,7 @@ Foi um exercício da terceira semana do bootcamp online de front-end da <a href=
 Junho e Julho de 2020. Nessa semana o tema tratado foi o framework Bootstrap. Utilizei o HTML e o CSS que desenvolvemos 
 juntamente com a professora <a href="https://github.com/re-andrade1987">Renata Andrade</a> durante a aula e fiz o menu hambúrguer
 do mobile com o bootstrap, consultando a documentação. Além disso, mudei as imagens do carrossel, coloquei a logo dada no navbar 
-e mudei as cores do site para ficarem esteticamente do meu agrado, já que era permitido fazer essas modificações.<br><br>
-Para ver o site clique <a href="https://raqcalazans.github.io/ViajandoComACarol/">aqui</a>.</p>
+e mudei as cores do site para ficarem esteticamente do meu agrado, já que era permitido fazer essas modificações.
 
 ## Vizualização Desktop
 <div align=center>
@@ -23,3 +22,5 @@ height="500px">
 <img src="https://github.com/raqcalazans/ViajandoComACarol/blob/master/assets/mobile.png" alt="Vizualização do site Viajando com a Carol em desktop" 
 height="900px">
 </div>
+
+Para ver o site clique <a href="https://raqcalazans.github.io/ViajandoComACarol/">aqui</a>.</p>
