@@ -4,7 +4,7 @@
 
 ## Descrição do projeto
 
-<p align="justify">Este projeto é um site estático de uma personagem fictícia chamada Carol que dá dicas de viagem.
+<p align="justify">Este projeto é um site estático e responsivo de uma personagem fictícia chamada Carol que dá dicas de viagem.
 Foi um exercício da terceira semana do bootcamp online de front-end da <a href="https://reprograma.com.br/">{reprograma}</a>, ocorrido nos meses de 
 Junho e Julho de 2020. Nessa semana o tema tratado foi o framework Bootstrap. Utilizei o HTML e o CSS que desenvolvemos 
 juntamente com a professora <a href="https://github.com/re-andrade1987">Renata Andrade</a> durante a aula e fiz o menu hambúrguer
